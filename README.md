@@ -1,4 +1,4 @@
-![4](https://github.com/user-attachments/assets/7c2e6b1a-79db-4ad9-a84f-df641f8e6a4f)# Ex No: 05 - Design & Implementation of 1-Bit Full Adder Using Cadence Virtuoso
+# Ex No: 05 - Design & Implementation of 1-Bit Full Adder Using Cadence Virtuoso
 
 ## Aim
 The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and verify its functionality through transient analysis simulation.
